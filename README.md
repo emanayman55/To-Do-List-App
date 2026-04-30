@@ -18,3 +18,6 @@ Since this is a client-side application, no installation or local server is requ
 • DOM Manipulation: Dynamically creating and removing elements using JavaScript.
 • Event Handling: Managing user interactions such as button clicks and keyboard inputs.
 • Responsive Layouts: Using CSS techniques to ensure the app looks great on all devices.
+
+🔗 The App Link : https://emanayman55.github.io/To-Do-List-App/
+
